@@ -45,6 +45,6 @@ Prompt Size Limitations:
 &  “Give me 50 examples of AI applications.”
 → Adjust for size: “Give me 10 AI applications at a time.”
 
-
+https://in.docworkspace.com/d/sIN6thdfFAZz9zccG?sa=601.1037
 
 # Result: The various types of Prompts are executed successfully with generated the report.
